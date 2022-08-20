@@ -3,4 +3,4 @@
 You can generate random sudoku and solve it.
 To generate randon sudoku we are using api.
 To solve sudoku we are using recursion and backtracking.
-using api you can generate easy , medium,hard sudoku.
+using api you can generate easy , medium or hard sudoku.
